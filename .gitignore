@@ -2,3 +2,9 @@
 /02MachineLearn/resMnist
 /02MachineLearn/lang
 /02MachineLearn/saveFiles
+/03Deeplearn/log_dir
+/03Deeplearn/resData
+/04ImgClassifier/download/
+/04ImgClassifier/predict_error
+/04ImgClassifier/resData
+/04ImgClassifier/saveFiles
